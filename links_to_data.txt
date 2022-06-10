@@ -1,0 +1,11 @@
+https://www.kaggle.com/datasets/ramjasmaurya/global-powerplants
+
+https://www.kaggle.com/datasets/cathetorres/ghg-emissions-by-country-and-economic-sector
+
+https://www.kaggle.com/search?q=economic+sector+ghg+datasetFileTypes%3Acsv
+
+https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy/chief-economist-analysis.html
+
+https://academic.udayton.edu/kissock/http/Weather/default.htm
+
+https://www.kaggle.com/datasets/sudalairajkumar/daily-temperature-of-major-cities
